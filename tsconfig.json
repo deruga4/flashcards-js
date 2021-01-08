@@ -1,0 +1,11 @@
+{
+    "compilerOptions":{
+        "target": "esnext",
+        "watch": true,
+        "lib": ["dom", "ES2017", "ES6"]
+    },
+    "files": [
+        "vocab.ts",
+        "flashcard.ts"
+    ]
+}
